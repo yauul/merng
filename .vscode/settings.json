@@ -1,0 +1,8 @@
+{
+    "prettier.singleQuote": true,
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+    "emmet.syntaxProfiles": {
+        "javascript": "javascriptreact"
+    }
+}
